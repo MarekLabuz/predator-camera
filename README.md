@@ -11,5 +11,5 @@ RC Car control: **Python, WiringPI**
 
 Web Application back-end: **Node.js, Express, Socket.io**
 
-Web Application front-end: **React, Redux, D3**
+Web Application front-end: **React, Redux, D3.js**
 
