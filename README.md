@@ -7,7 +7,7 @@
 
 Image processing and object detection: **Python, OpenCV**
 
-RC Car control: **Python, WiringPI**
+RC Car control: **Python, WiringPI, GPIO - PWM**
 
 Web Application back-end: **Node.js, Express, Socket.io**
 
